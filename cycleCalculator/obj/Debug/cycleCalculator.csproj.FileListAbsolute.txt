@@ -1,0 +1,10 @@
+D:\workspace\C#\cycleCalculator\cycleCalculator\bin\Debug\cycleCalculator.exe.config
+D:\workspace\C#\cycleCalculator\cycleCalculator\bin\Debug\cycleCalculator.exe
+D:\workspace\C#\cycleCalculator\cycleCalculator\bin\Debug\cycleCalculator.pdb
+D:\workspace\C#\cycleCalculator\cycleCalculator\obj\Debug\cycleCalculator.csprojResolveAssemblyReference.cache
+D:\workspace\C#\cycleCalculator\cycleCalculator\obj\Debug\cycleCalculator.Form1.resources
+D:\workspace\C#\cycleCalculator\cycleCalculator\obj\Debug\cycleCalculator.Properties.Resources.resources
+D:\workspace\C#\cycleCalculator\cycleCalculator\obj\Debug\cycleCalculator.csproj.GenerateResource.Cache
+D:\workspace\C#\cycleCalculator\cycleCalculator\obj\Debug\cycleCalculator.exe
+D:\workspace\C#\cycleCalculator\cycleCalculator\obj\Debug\cycleCalculator.pdb
+D:\workspace\C#\cycleCalculator\cycleCalculator\bin\Debug\stdole.dll
